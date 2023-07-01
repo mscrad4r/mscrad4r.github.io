@@ -1,7 +1,125 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: /home/
+
+  - title: "Platform"
+    url: /platform/
+
+  - title: "Urban Dataset"
+    url: /urban/overall/
+
+  - title: "Rural Dataset"
+    url: /rural/overall/
+
+
+sidebar-urban:
+  - title: "Overall"
+    url: /urban/overall/
+  
+  - title: "Urban_A0"
+    url: /urban/urbanA0/
+  - title: "Urban_A1"
+    url: /urban/urbanA1/
+
+  - title: "Urban_B0"
+    url: /urban/urbanB0/
+  - title: "Urban_B1"
+    url: /urban/urbanB1/
+
+  - title: "Urban_C0"
+    url: /urban/urbanC0/
+  - title: "Urban_C1"
+    url: /urban/urbanC1/
+
+  - title: "Urban_D0"
+    url: /urban/urbanD0/
+  - title: "Urban_D1"
+    url: /urban/urbanD1/
+
+  - title: "Urban_E0"
+    url: /urban/urbanE0/
+  - title: "Urban_E1"
+    url: /urban/urbanE1/
+
+  - title: "Urban_F0"
+    url: /urban/urbanF0/
+  - title: "Urban_F1"
+    url: /urban/urbanF1/
+
+  - title: "Urban_G0"
+    url: /urban/urbanG0/
+  - title: "Urban_G1"
+    url: /urban/urbanG1/
+
+  - title: "Urban_H0"
+    url: /urban/urbanH0/
+  - title: "Urban_H1"
+    url: /urban/urbanH1/
+
+  - title: "Calibration Data"
+    url: /urban/calibration/
+
+
+
+sidebar-rural:
+  - title: "Overall"
+    url: /rural/overall/
+
+  - title: "Rural_A0"
+    url: /rural/ruralA0/
+  - title: "Rural_A1"
+    url: /rural/ruralA1/
+  - title: "Rural_A2"
+    url: /rural/ruralA2/
+
+  - title: "Rural_B0"
+    url: /rural/ruralB0/
+  - title: "Rural_B1"
+    url: /rural/ruralB1/
+  - title: "Rural_B2"
+    url: /rural/ruralB2/
+
+  - title: "Rural_C0"
+    url: /rural/ruralC0/
+  - title: "Rural_C1"
+    url: /rural/ruralC1/
+  - title: "Rural_C2"
+    url: /rural/ruralC2/
+
+  - title: "Rural_D0"
+    url: /rural/ruralD0/
+  - title: "Rural_D1"
+    url: /rural/ruralD1/
+  - title: "Rural_D2"
+    url: /rural/ruralD2/
+
+  - title: "Rural_E0"
+    url: /rural/ruralE0/
+  - title: "Rural_E1"
+    url: /rural/ruralE1/
+  - title: "Rural_E2"
+    url: /rural/ruralE2/
+
+  - title: "Rural_F0"
+    url: /rural/ruralF0/
+  - title: "Rural_F1"
+    url: /rural/ruralF1/
+  - title: "Rural_F2"
+    url: /rural/ruralF2/
+
+  - title: "Calibration Data"
+    url: /rural/calibration/
+
+
+
+
+
+
+
+
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
