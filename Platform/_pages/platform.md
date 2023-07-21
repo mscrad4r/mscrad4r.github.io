@@ -56,7 +56,7 @@ LiDAR       | Ouster, OS1-128, VFoV 45, range 200m                   | 10  | /ou
 IMU         | Xsens, MTi-630, roll(0.2), pitch(0.5), yaw(1)          | 200 | /imu/data                               | /sensor_msgs/Imu          | 1
 RTK-GPS     | Synerex, MRP-2000, RTK accuracy +- 3cm                 | 10  | /fix, /vel                              | /sensor_msgs/NavSatFix, /geometry_msgs/TwistStamped | 1
 GPS         | UBlox, ZED-F9P, Pos. accuaracy 1.0 - 1.5m              | 10  | /ublox_gps/fix, /ublox_gps/fix_velocity | /sensor_msgs/NavSatFix, /geometry_msgs/TwitWithCovarianceStamped | 1
-Wheel Speed | Autonics, PR30-10DN, detection dis. 10mm               | 100 | /autoev(left, right)_wheel_rpm, /autoev(left, right)_wheel_vel | /std_msgs/Float32stamped, /std_msgs/Floar32stamped | 2
+Wheel Speed | Autonics, PR30-10DN, detection dis. 10mm               | 100 | /wheel_(left,right)                     | /geometry_msgs/TwistStamped | 2
 
 
 <br/>
@@ -71,9 +71,9 @@ Originally x, y and z are measured in Oculii coordinate, but these values were c
 
 name    | description | units
 ---     | ---         | --- 
-x       | oculii_z    | [m]
-y       | - oculii_x  | [m]
-z       | - oculii_y  | [m]
+x       | oculii_x    | [m]
+y       | oculii_y    | [m]
+z       | oculii_z    | [m]
 beta    | elevation angle | [degree]
 alpha   | azimuth angle   | [degree]
 power   | signal-to-noise(SNR) | [dB]

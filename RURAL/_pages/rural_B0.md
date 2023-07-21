@@ -41,8 +41,8 @@ sidebar:
 
 
 # [3] Download Link
-[Download RURAL_B0](http://gofile.me/70cMI/rkw6CIfkF) \\
-[Download Overall RURAL](http://gofile.me/70cMI/q7XYq1KQy) \\
+[Download RURAL_B0](http://gofile.me/70cMI/z6lv1sgr7) \\
+[Download Overall RURAL](http://gofile.me/70cMI/2jJiffbq3) \\
 Password : mscrad4r 
 
 
@@ -52,14 +52,14 @@ Password : mscrad4r
 <br/>
 
 
-# [4] How to see data on the Viewer
+# [4] How to see ROSbag data on the viewer
 **Step1.** [Download foxglove studio.](https://foxglove.dev/)\\
 (Support Linux, Windows and macOS) \\
-**Step2.** Download [custom MSC-RAD4R layout](http://gofile.me/70cMI/tMGPgp6iZ). \\
+**Step2.** Download [custom MSC-RAD4R layout](http://gofile.me/70cMI/IrAjZ6S4M). \\
 **Step3.** Double click the downloaded rosbag data.\\
-**Step4.** Click 'Layouts' item on the left tab in the foxglove studio. \\
+**Step4.** Click 'Layouts' item on the top tab in the foxglove studio. \\
 **Step5.** Apply downloaded MSC-RAD4R layout by clicking 'Import layout' button on the top. \\
-**Step6.** Play rosbag and enjoy MSC RAD4R dataset!
+**Step6.** Play rosbag and enjoy MSC-RAD4R dataset!
 <br/>
 <br/>
 

@@ -12,6 +12,13 @@ main:
   - title: "Rural Dataset"
     url: /rural/overall/
 
+  - title: "Loop Dataset"
+    url: /loop/overall/
+
+  - title: "Smoke Dataset"
+    url: /smoke/overall/
+
+
 
 sidebar-urban:
   - title: "Overall"
@@ -114,7 +121,36 @@ sidebar-rural:
 
 
 
+sidebar-loop:
+  - title: "Overall"
+    url: /loop/overall/
+  
+  - title: "Loop_A0"
+    url: /loop/loopA0/
+  
+  - title: "Loop_B0"
+    url: /loop/loopB0/
+  
+  - title: "Loop_C0"
+    url: /loop/loopC0/
+  
+  - title: "Loop_D0"
+    url: /loop/loopD0/
+  
+  - title: "Loop_E0"
+    url: /loop/loopE0/
 
+
+
+sidebar-smoke:
+  - title: "Overall"
+    url: /smoke/overall/
+  
+  - title: "Smoke_A0"
+    url: /smoke/smokeA0/
+  
+  - title: "Smoke_B0"
+    url: /smoke/smokeB0/
 
 
 

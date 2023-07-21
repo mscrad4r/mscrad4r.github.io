@@ -22,17 +22,7 @@ header:
 
 # [1] Motivation
 
-Simultaneous Localization And Mapping(SLAM) technology is essential for global localization and route planning of autonomous driving. 
-Since most of existing SLAM techniques are limited in dynamic environments such as city or complex urban, many studies are being conducted to address this issue.
-The 4D Radar, which has been in the spotlight recently, is a very good sensor in perspective of SLAM because it can easily classify static objects from measured Doppler velocity. 
-It also has the advantage of high resolution and robustness in extreme weather conditions. 
-Therefore, academia and many companies have recently been conducting research based on 4D Radar dataset. 
-However, most of the recently opened 4D Radar dataset publications focus on 3D object detection. 
-Therefore, odometry sensors are often insufficient, which is disadvantageous for 4D Radar odometry and SLAM research. 
-From this point of view, this paper proposed a 4D Radar dataset containing various odometry sensors based on ROS framework, which is widely used by robotics engineers. 
-In addition, the newly proposed LiDAR-camera calibration method applicable to low resolution LiDAR and Radar-camera calibration were performed. 
-Finally, 4D Radar odometry’s feasibility under dynamic environments such as metropolitan areas is shown in this work. 
-The dataset can be freely accessed via the following link : https://iphone7743.github.io/mscrad4r.
+Recently, several 4D radar datasets have been published due to its high resolution and robustness in extreme weather conditions. However, most of the recent 4D radar dataset publications have insufficient odometry sensors, which is disadvantageous for 4D radar odometry research. To tackle this problem, this paper presents a 4D radar dataset with various odometry sensors based on a robot operating system (ROS) framework called MSC-RAD4R, which stands for Motivated for SLAM in City, ROS-based Automotive Dataset with 4D Radar. Our dataset at a glance includes 98,786 pairs of stereo images, 60,562 frames of LiDAR data, 90,864 frames of 4D radar data, 60,570 frames of RTK-GPS, 60,559 frames of GPS, 1,211,486 frames of IMU data and 6,057,276 wheel data covering approximately 51.6km and 100 minutes of automotive data in various environments including day, night, snow and smoke. In particular, our setup includes a high-resolution 79GHz Adaptive PDM FMCW Oculii 4D radar, which provides approximately 5,000-20,000 points per frame and operates at a long range of 400 meters with a frequency of 15Hz. It is expected that the proposed dataset will be useful for researchers working on 4D radar SLAM. The dataset is freely accessed via the following link: https://mscrad4r.github.io.
 <br/>
 <br/>
 <br/>
@@ -76,6 +66,38 @@ The data was obtained from areas with a discernible population (Yuseong-gu, Daej
 
 ata collection courses overview for rural areas. The data was mostly obtained on roads or alleys that were not heavily populated. 
 In addition, data on snowy environments was acquired (Daegwallyeong-myeon, Pyeongchang-gun, Gangwon-do, South Korea, latitude : 37.677758, longitude : 128.700295).
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+# [5] Collection Couse (Loop, Daejeon)
+![ ](https://drive.google.com/uc?id=1hrgsr18wcnNOQmUfs4DTNR_QiXSQcrAd)
+
+
+Data collection courses overview for loop areas. Red and blue points mean the starting point and the ending point of the courses, respectively.
+The data was obtained from areas with a discernible population (Gwanpyeong-dong, Yuseong-gu,Daejeon, South Korea, latitude : 36.416685, longitude : 127.407457).
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+# [6] Collection Couse (Smoke, Daejeon)
+![ ](https://drive.google.com/uc?id=1uPhXfngsGP7rPj6mxK14PQ-93OlIBGAt)
+
+<br/>
+![ ](https://drive.google.com/uc?id=1WwlcfOe8BFbF3UOykYFMjbzEcJl8_CZM)
+
+Data collection courses overview for smoke areas. Red and blue points mean the starting point and the ending point of the courses, respectively.
+The data was obtained from areas KAIST munji campus (Munji-dong, Yuseong-gu,Daejeon, South Korea, latitude : 36.392536, longitude : 127.397305).
+
 <br/>
 <br/>
 <br/>
