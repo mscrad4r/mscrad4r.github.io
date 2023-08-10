@@ -140,6 +140,8 @@ sidebar-loop:
   - title: "Loop_E0"
     url: /loop/loopE0/
 
+  - title: "Calibration Data"
+    url: /loop/calibration/
 
 
 sidebar-smoke:
@@ -152,7 +154,8 @@ sidebar-smoke:
   - title: "Smoke_B0"
     url: /smoke/smokeB0/
 
-
+  - title: "Calibration Data"
+    url: /smoke/calibration/
 
 
 
