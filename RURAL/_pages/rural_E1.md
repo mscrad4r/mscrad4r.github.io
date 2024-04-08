@@ -24,7 +24,8 @@ sidebar:
 <br/>
 
 # [2] Data Course - *"Rural E1"*
-![ ](https://drive.google.com/uc?id=14dfh4mH7UpK7JOkZDLwHi-dTpNVZMrAN)
+<!-- ![ ](https://drive.google.com/uc?id=14dfh4mH7UpK7JOkZDLwHi-dTpNVZMrAN) -->
+![ ](/assets/images_gitblog/Course_RURAL_E.PNG)
 
 **Date** : 2023. 02. 24 \\
 **Location** : Daegwallyeong-myeon, Pyeongchang-gun, Gangwon-do, South Korea\\
@@ -43,6 +44,8 @@ sidebar:
 [Download RURAL_E1](http://gofile.me/70cMI/eNcGAq5u5) \\
 [Download Overall RURAL](http://gofile.me/70cMI/2jJiffbq3) \\
 Password : mscrad4r 
+
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 
 

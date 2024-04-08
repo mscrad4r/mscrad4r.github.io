@@ -25,7 +25,8 @@ sidebar:
 <br/>
 
 # [2] Data Course - *"Loop D0"*
-![ ](https://drive.google.com/uc?id=1KrUISkX56iYexNLyXx00NAfRxch8IL_K)
+<!-- ![ ](https://drive.google.com/uc?id=1KrUISkX56iYexNLyXx00NAfRxch8IL_K) -->
+![ ](/assets/images_gitblog/Course_LOOP_D.PNG)
 
 **Date** : 2023. 07. 06 \\
 **Location** : Gwanpyeong-dong, Yuseong-Gu, Daejeon, South Korea \\
@@ -44,6 +45,8 @@ sidebar:
 [Download LOOP_D0](http://gofile.me/70cMI/7W1Ef1pOG) \\
 [Download Overall LOOP](http://gofile.me/70cMI/hGzxi6Ijs) \\
 Password : mscrad4r 
+
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 
 <br/>

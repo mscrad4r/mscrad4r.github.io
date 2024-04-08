@@ -112,8 +112,6 @@ The data was obtained from areas KAIST munji campus (Munji-dong, Yuseong-gu,Daej
 <br/>
 ![ ](/assets/images_gitblog/Data_tree.png)
 
-Please check above data tree example.
-
 
 <br/>
 <br/>

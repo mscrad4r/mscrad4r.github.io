@@ -25,7 +25,8 @@ sidebar:
 <br/>
 
 # [2] Data Course - *"Smoke B0"*
-![ ](https://drive.google.com/uc?id=1WwlcfOe8BFbF3UOykYFMjbzEcJl8_CZM)
+<!-- ![ ](https://drive.google.com/uc?id=1WwlcfOe8BFbF3UOykYFMjbzEcJl8_CZM) -->
+![ ](/assets/images_gitblog/Course_SMOKE_B.PNG)
 
 **Date** : 2023. 07. 06 \\
 **Location** : Munji-dong, Yuseong-Gu, Daejeon, South Korea \\
@@ -45,6 +46,7 @@ sidebar:
 [Download Overall SMOKE](http://gofile.me/70cMI/lb3vJ0V3S) \\
 Password : mscrad4r 
 
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 <br/>
 <br/>

@@ -25,7 +25,8 @@ sidebar:
 <br/>
 
 # [2] Data Course - *"Urban F1"*
-![ ](https://drive.google.com/uc?id=1I1LX_jXhRUyDw6k-ojskgfrlMOeTeQqA)
+<!-- ![ ](https://drive.google.com/uc?id=1I1LX_jXhRUyDw6k-ojskgfrlMOeTeQqA) -->
+![ ](/assets/images_gitblog/Course_URBAN_F.PNG)
 
 **Date** : 2023. 04. 02 \\
 **Location** : Yuseong-Gu, Daejeon, South Korea \\
@@ -44,6 +45,8 @@ sidebar:
 [Download URBAN_F1](http://gofile.me/70cMI/fVcs5t1oe) \\
 [Download Overall URBAN](http://gofile.me/70cMI/UAkqTVJxK) \\
 Password : mscrad4r 
+
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 
 

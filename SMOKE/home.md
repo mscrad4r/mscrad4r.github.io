@@ -18,10 +18,12 @@ sidebar:
 
 
 # [1] Data Course - "Smoke"
-![ ](https://drive.google.com/uc?id=1uPhXfngsGP7rPj6mxK14PQ-93OlIBGAt)
+<!-- ![ ](https://drive.google.com/uc?id=1uPhXfngsGP7rPj6mxK14PQ-93OlIBGAt) -->
+![ ](/assets/images_gitblog/Course_SMOKE_A.PNG)
 
 <br/>
-![ ](https://drive.google.com/uc?id=1WwlcfOe8BFbF3UOykYFMjbzEcJl8_CZM)
+<!-- ![ ](https://drive.google.com/uc?id=1WwlcfOe8BFbF3UOykYFMjbzEcJl8_CZM) -->
+![ ](/assets/images_gitblog/Course_SMOKE_B.PNG)
 
 Data collection courses overview for smoke areas. 
 Red and blue points mean the starting point and the ending point of the courses, respectively.
@@ -50,6 +52,7 @@ LoopB0  | Clear   | Day   |  ★☆☆☆☆     | 0.8km    | Campus, Smoke
 [Download Overall SMOKE](http://gofile.me/70cMI/lb3vJ0V3S) \\
 Password : mscrad4r 
 
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 <br/>
 <br/>

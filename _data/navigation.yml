@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /home/
 
+  - title: "Notice"
+    url: /notice/
+
   - title: "Platform"
     url: /platform/
 

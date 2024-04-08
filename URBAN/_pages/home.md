@@ -18,7 +18,8 @@ sidebar:
 
 
 # [1] Data Course - "Urban"
-![ ](https://drive.google.com/uc?id=1LgPSM2OCXNDIW6d2gyCqaSVkfUp4WFi4)
+<!-- ![ ](https://drive.google.com/uc?id=1LgPSM2OCXNDIW6d2gyCqaSVkfUp4WFi4) -->
+![ ](/assets/images_gitblog/Daejeon.png)
 
 Data collection courses overview for urban areas. 
 Red and blue points mean the starting point and the ending point of the courses, respectively.
@@ -56,9 +57,10 @@ UrbanH1 | Clear   | Night |  ★★☆☆☆     | 2.2km    | Road
 
 
 # [3] Download Link
-[Download Overall URBAN](http://gofile.me/70cMI/UAkqTVJxK) \\
+[Download Overall URBAN with NAS](http://gofile.me/70cMI/UAkqTVJxK) \\
 Password : mscrad4r 
 
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 <br/>
 <br/>

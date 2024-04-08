@@ -18,7 +18,8 @@ sidebar:
 
 
 # [1] Data Course - "Loop"
-![ ](https://drive.google.com/uc?id=1hrgsr18wcnNOQmUfs4DTNR_QiXSQcrAd)
+<!-- ![ ](https://drive.google.com/uc?id=1hrgsr18wcnNOQmUfs4DTNR_QiXSQcrAd) -->
+![ ](/assets/images_gitblog/LOOP.PNG)
 
 Data collection courses overview for loop areas. 
 Red and blue points mean the starting point and the ending point of the courses, respectively.
@@ -46,8 +47,10 @@ LoopE0  | Clear   | Day   |  ★★★☆☆     | 1.7km    | Road, Loop Closed
 
 
 # [3] Download Link
-[Download Overall LOOP](http://gofile.me/70cMI/hGzxi6Ijs) \\
+[Download Overall LOOP with NAS](http://gofile.me/70cMI/hGzxi6Ijs) \\
 Password : mscrad4r 
+
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 
 <br/>

@@ -18,7 +18,8 @@ sidebar:
 
 
 # [1] Data Course - "Rural"
-![ ](https://drive.google.com/uc?id=1Jt0OKf4zaX9Zi865KD1ELaisZ5S5L5X3)
+<!-- ![ ](https://drive.google.com/uc?id=1Jt0OKf4zaX9Zi865KD1ELaisZ5S5L5X3) -->
+![ ](/assets/images_gitblog/Gangwondo.png)
 
 ata collection courses overview for rural areas. 
 The data was mostly obtained on roads or alleys that were not heavily populated. 
@@ -59,9 +60,10 @@ RuralF2 | Snowy   | Night |  ☆☆☆☆☆     | 0.2km    | Alley
 
 
 # [3] Download Link
-[Download Overall RURAL](http://gofile.me/70cMI/2jJiffbq3) \\
+[Download Overall RURAL with NAS](http://gofile.me/70cMI/2jJiffbq3) \\
 Password : mscrad4r 
 
+[Download MSC-RAD4R dataset with Google Drive](https://drive.google.com/drive/folders/1wCoiC4WzlgyLCSZMaYEdFcTqjOc0IkGQ?usp=drive_link)
 
 
 <br/>
