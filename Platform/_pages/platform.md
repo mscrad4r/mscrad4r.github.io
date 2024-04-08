@@ -21,7 +21,8 @@ header:
 
 # [1] Platform
 <br/>
-![ ](https://drive.google.com/uc?id=15rjHH2t_Ow3KjwqwojH0FWO51TL-2640)
+<!--![ ](https://drive.google.com/uc?id=15rjHH2t_Ow3KjwqwojH0FWO51TL-2640) -->
+![ ](/assets/images_gitblog/fig2_IONIQ.png)
 
 **Hyndai, IONIQ 2015 electric model** is used for data acquisition.
 
@@ -32,7 +33,8 @@ header:
 
 # [2] Sensor Configuration 
 
-![ ](https://drive.google.com/uc?id=1sgIqOITYiS6zySF-AHeml5SstADCLUNt)
+<!--![ ](https://drive.google.com/uc?id=1sgIqOITYiS6zySF-AHeml5SstADCLUNt)-->
+![ ](/assets/images_gitblog/fig1_CAD.png)
 
 Hardware sensor configuration of MSC-RAD4R dataset with top view. Sensor coordinates of each sensor are represented, where the coordinate frame is shown with red(x), green(y) and blue(z) axes. The colored triangles represent the field of view of each sensor, yellow for camera and red for 4D Radar.
 

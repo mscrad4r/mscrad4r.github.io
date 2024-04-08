@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "KAIST MSC LAB"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mechatronics, System and Control lab, Mechanical Engineering Department, Korea Advanded Institute of Science and Technology, http://msc.kaist.ac.kr/"
+  bio              : "Mechatronics, Systems and Control lab, Mechanical Engineering Department, Korea Advanded Institute of Science and Technology, http://msc.kaist.ac.kr/"
   location         : "Daejeon, South Korea"
   email            : 
   links:
